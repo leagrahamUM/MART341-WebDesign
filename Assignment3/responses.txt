@@ -1,1 +1,5 @@
 This is a test.
+
+Assisntment 3 Questions
+1. The advantages of using a text editor include the ability to use files across diffenet devices and different device types. For example, rather than just living on your own computer, you can link to a text file and it will be readable without someone needing microsoft office or other document programs. 
+2. There is an advatage to using relative urls, most notably - they are shorter. However they are restricted since you can only access them on the same path.
